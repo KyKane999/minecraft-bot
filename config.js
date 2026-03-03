@@ -14,12 +14,12 @@ module.exports = {
 
     //Your Minecraft server data
     server: {
-        name: "", //Your server name
-        type: "", //"java" or "bedrock"
-        ip: "", //IP of your server - do not include port - e.g. "mc.hypixel.net"
-        port: "", //PORT of your server - empty => default port (JA 25565, BE 19132)
+        name: "", //ValorySMP
+        type: "", //"java" 
+        ip: "", //ValorySMP.aternos.me
+        port: "", // 57175
         icon: "", //Link to icon - like "https://website.com/icon.png"
-        version: "", //Minecraft version of sever
+        version: "", //1.21.11
         vote: "" //Vote link - like "https://minecraftpocket-servers.com/server/80103/vote/"
     },
 
